@@ -2,9 +2,10 @@
 template file for cucumber with protractor
 
 In Visual Studio Code project folder download these files.
-Create a folder 'features'. Add some sample feature file
+1. Create a folder 'features'. 
+2. Add some sample feature file
 
-1. execute npm install
-2. execute webdriver-manager start
-3. execute npm test
+3. execute npm install
+4. execute webdriver-manager start
+5. execute npm test
 warning for unimplemented steps will be shown
