@@ -8,4 +8,5 @@ In Visual Studio Code project folder download these files.
 3. execute npm install
 4. execute webdriver-manager start
 5. execute npm test
+
 warning for unimplemented steps will be shown
